@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection using Machine Learning in Python (Project Still Ongoing #
+# Credit Card Fraud Detection using Machine Learning in Python (Project Still Ongoing) #
 
 In this kernel, we are going to predict whether a credit card is fraud or not using Machine Learning.
 
